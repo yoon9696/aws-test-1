@@ -5,23 +5,15 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-<<<<<<< HEAD
-		<version>2.4.5</version>
+		<version>2.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>aws-git-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>aws-git-test</name>
-=======
-		<version>2.4.4</version>
-		<relativePath/> <!-- lookup parent from repository -->
-	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>aws-test-1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>aws-test-1</name>
->>>>>>> branch 'master' of https://github.com/yoon9696/aws-test-1.git
+	<packaging>war</packaging>
+	
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
@@ -71,5 +63,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
