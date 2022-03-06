@@ -1,6 +1,6 @@
 package bbs;
 
-public class Bbs {
+public class Bbs {//dd
 
 	private int bbsID;
 	private String bbsTitle;
